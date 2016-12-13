@@ -638,20 +638,20 @@
 		"weapons": {
 			"simple melee weapons": {
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
-				"dagger": {"cost": "2gp", "damage": "1d4", "type": piercing", "weight": "1lbs", "properties": "finesse, light, thrown 20/60"},
+				"dagger": {"cost": "2gp", "damage": "1d4", "type": "piercing", "weight": "1lbs", "properties": "finesse, light, thrown 20/60"},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
-				"quarterstaff": {"cost": "2sp", "damage": "1d6", "type": bludgeoning", "weight": "4lbs", "properties": "versatile 1d8"},
+				"quarterstaff": {"cost": "2sp", "damage": "1d6", "type": "bludgeoning", "weight": "4lbs", "properties": "versatile 1d8"},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""}
 			},
 			"simple ranged weapons": {
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
-				"short bow": {"cost": "25gp", "damage": "1d6", "type": piercing", "weight": "2lbs", "properties": "ammunition range 80/320, two-handed"},
+				"short bow": {"cost": "25gp", "damage": "1d6", "type": "piercing", "weight": "2lbs", "properties": "ammunition range 80/320, two-handed"},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 			},
 			"martial melee weapons": {
@@ -666,7 +666,7 @@
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
-				"rapier": {"cost": "25gp", "damage": "1d8", "type": piercing", "weight": "2lbs", "properties": "finesse"},
+				"rapier": {"cost": "25gp", "damage": "1d8", "type": "piercing", "weight": "2lbs", "properties": "finesse"},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
@@ -676,7 +676,7 @@
 			},
 			"martial ranged weapons": {
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
-				"hand crossbow": {"cost": "75gp", "damage": "1d6", "type": slashing", "weight": "3lbs", "properties": "ammunition range 30/120, light, loading"},
+				"hand crossbow": {"cost": "75gp", "damage": "1d6", "type": "slashing", "weight": "3lbs", "properties": "ammunition range 30/120, light, loading"},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""},
 				"": {"cost": "", "damage": "",  "type": "","weight": "", "properties": ""},
 				"": {"cost": "", "damage": "", "type": "", "weight": "", "properties": ""}
@@ -960,6 +960,7 @@
 			"99": "",
 			"100": ""
 		},
-	}
+	},
+	"customization options"
 }
 
