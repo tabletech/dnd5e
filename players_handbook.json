@@ -106,7 +106,7 @@
 			"primary ability": "charisma",
 			"saving throw proficiencies": ["dexterity", "charisma"],
 			"weapon proficiencies": ["simple", "hand crossbows", "longswords", "rapiers", "shortswords"],
-			"armor proficiencies": ["light"]
+			"armor proficiencies": ["light"],
 			"leveling": {
 				"1": {"proficiency bonus": "", "features": ["", ""], "cantrips known": "",
 				"spells known": "", "spell slots per spell level": {"1":"", "2":"", "3":"", "4":"", "5":"", "6":"", "7":"", "8":"", "9":""},
@@ -156,7 +156,7 @@
 			"primary ability": "wisdom",
 			"saving throw proficiencies": ["wisdom", "charisma"],
 			"weapon proficiencies": ["simple"],
-			"armor proficiencies": ["light", "medium", "shields"]
+			"armor proficiencies": ["light", "medium", "shields"],
 			"leveling": {
 				"1": {"proficiency bonus": "", "features": ["", ""], "cantrips known": "",
 				"spell slots per spell level": {"1":"", "2":"", "3":"", "4":"", "5":"", "6":"", "7":"", "8":"", "9":""},
@@ -285,7 +285,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "", "martial arts": "", "ki points": "", "unarmored movement": "", "features": ["", ""]},
 				"2": {"proficiency bonus": "", "martial arts": "", "ki points": "", "unarmored movement": "", "features": ["", ""]},
@@ -315,7 +315,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "", "features": ["", ""],
 				"spell slots per spell level": {"1":"", "2":"", "3":"", "4":"", "5":""},
@@ -365,7 +365,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "", "features": ["", ""], "spells known": "",
 				"spell slots per spell level": {"1":"", "2":"", "3":"", "4":"", "5":""},
@@ -415,7 +415,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "2", "sneak attack": "1d6", "features": ["expertise", "sneak attack", "thieves cant"]},
 				"2": {"proficiency bonus": "2", "sneak attack": "1d6", "features": ["cunning action"]},
@@ -445,7 +445,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "", "sorcery points": "", "features": ["", ""], "cantrips known": "",
 				"spells known": "", "spell slots per spell level": {"1":"", "2":"", "3":"", "4":"", "5":"", "6":"", "7":"", "8":"", "9":""},
@@ -495,7 +495,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "", "features": ["", ""], "cantrips known": "", "spells known": "", "spell slots": "", "slot level": "", "invocations known": ""},
 				"2": {"proficiency bonus": "", "features": ["", ""], "cantrips known": "", "spells known": "", "spell slots": "", "slot level": "", "invocations known": ""},
@@ -525,7 +525,7 @@
 			"primary ability": "",
 			"saving throw proficiencies": ["", ""],
 			"weapon proficiencies": ["", ""],
-			"armor proficiencies": ["", ""]
+			"armor proficiencies": ["", ""],
 			"leveling": {
 				"1": {"proficiency bonus": "", "features": ["", ""], "cantrips known": "",
 				"spell slots per spell level": {"1":"", "2":"", "3":"", "4":"", "5":"", "6":"", "7":"", "8":"", "9":""},
